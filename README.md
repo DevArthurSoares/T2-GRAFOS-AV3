@@ -4,7 +4,7 @@ Prof. Ricardo Carubbi
 
 Grupo: Aaron Magno, Arthur Soares, Davi Dias
 O Problema: Route Change (UVa 11833)
-
+Linguagem: Python
 Resolução do problema 11833 do UVa Online Judge. O objetivo é calcular o menor custo de pedágio da cidade K até o destino final C−1.
 Restrição de Estado
 
